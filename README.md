@@ -95,19 +95,6 @@ accuracy          0.620  0.620000  0.620000     0.62
 macro avg         0.650  0.596618  0.570330   500.00
 weighted avg      0.646  0.620000  0.582017   500.00
 ```
-
-### Confusion Matrix
-Confusion Matrix:
-[[15  2]
- [ 4 19]]
-
----
-
-## Visualization
-
-### Loss Convergence Plot
-Tracks the loss during the quantum kernel optimization process, showing training progression.
-
 ---
 
 ## Conclusion
