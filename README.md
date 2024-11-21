@@ -113,15 +113,3 @@ Tracks the loss during the quantum kernel optimization process, showing training
 ## Conclusion
 
 The Quantum Kernel-Based Model provides robust demand classification with a balanced accuracy of 85%. The loss convergence and classification metrics suggest effective training and generalization, making it suitable for demand forecasting applications.
-
----
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo-name/qml-demand-forecasting.git
-   cd qml-demand-forecasting
-   ```
-
-2. Place your datasets (`train_0irEZ2H.csv`, `test_nfaJ3J5.csv`) in the project directory.
