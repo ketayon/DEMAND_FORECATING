@@ -72,11 +72,6 @@ pip install qiskit qiskit-machine-learning scikit-learn pandas numpy matplotlib 
 
 ---
 
-## Results
-
-### Balanced Accuracy Test
-**0.85**
-
 ### Classification Report
 ```
 Model Accuracy on Training Data: 62.00% 
